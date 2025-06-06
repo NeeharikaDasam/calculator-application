@@ -1,0 +1,1 @@
+We can do all the basic calculator applications usind these codes. The error free calculations can be done. html, css, javascript and python is also used in these. I developed both frontend and backend in this project. 
